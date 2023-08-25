@@ -1,1 +1,2 @@
 # HR_Analysis
+HR analytics, also known as Human Resources analytics or HR data analytics, is the process of using data and analytical techniques to gain insights and make informed decisions related to various aspects of human resources management. It involves collecting, analyzing, and interpreting data from various HR-related sources to optimize HR processes, enhance employee engagement, improve talent management, and support overall business strategies
